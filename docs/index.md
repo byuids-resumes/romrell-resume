@@ -10,7 +10,7 @@ title: David Romrell's Resume
 <a href="tel:5034039289">503-403-9289</a>
 
 
-I enjoy service and care for others.  
+<!--I enjoy service and care for others.  -->
 
 
 <!-- create these pages and accounts 
@@ -24,29 +24,14 @@ I enjoy service and care for others.
 
 __Education BYU-i:__
 
-GPA 2.675
-
 Fall Semester 2017 to Fall Semester 2022
-
-__DataScience classes__:
-
-CIT160:Intro to Programming
-
-CIT260:Object Oriented Programing
-
-CIT225:Database Design & Development
-
-CSE130:Algorithm Design
-
-CS101:Intro to Programming
-
-DS250:Data Science Programming
 
 ## Work Experience
 
 Deseret Industries - Meridian Idaho 
 APR 2022 to current
 
+## Volunteering
 
 Oregon Foodbank - Regular volunteer 
 Jan 2018 to July 2021
