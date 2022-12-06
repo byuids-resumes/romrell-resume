@@ -26,15 +26,6 @@ __Education BYU-i:__
 
 Fall Semester 2017 to Fall Semester 2022
 
-## Work Experience
-
-Deseret Industries - Meridian Idaho 
-APR 2022 to current
-
-## Volunteering
-
-Oregon Foodbank - Regular volunteer 
-Jan 2018 to July 2021
 
 <!--## Projects examples -->
 <!--
@@ -69,6 +60,8 @@ trying new things
 
 ## Service:
 
+Oregon Foodbank - Regular volunteer 
+Jan 2018 to July 2021
 <!-- ### Footer
 
 Last updated: May 2013 -->
