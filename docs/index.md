@@ -2,8 +2,6 @@
 layout: cv
 title: David Romrell's Resume
 ---
-# David Romrell
-5615 N Peppard Ave. Meridian ID 83646
 
 <a href="mailto:david@dromrell.org">david@dromrell.org</a>
 
