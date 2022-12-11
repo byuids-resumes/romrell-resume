@@ -36,6 +36,8 @@ MachineLearning Algorithms
 
 FibonnaciGenerator  
 
+PrimeNumberGenerator
+
 ## Service:
 
 Oregon Foodbank - Regular volunteer 
