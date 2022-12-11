@@ -41,8 +41,6 @@ GeneticAlgorithm
 
 CODE I CANT SHARE CAUSE ITS NOT SUPPOSED TO BE POSSIBLE TO CREATE... 
 
-<!-- redirect to actual code -->
-
 ## Service:
 
 Oregon Foodbank - Regular volunteer 
