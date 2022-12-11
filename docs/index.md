@@ -30,10 +30,15 @@ trying new things
 ## Programs built:
 
 ## Will add let me know the order of importance to add:
+
 NeuralNetworks
+
 MachineLearning 
+
 FibonnaciGenerator
+
 GeneticAlgorithm
+
 CODE I CANT SHARE CAUSE ITS NOT SUPPOSED TO BE POSSIBLE TO CREATE... 
 
 <!-- redirect to actual code -->
