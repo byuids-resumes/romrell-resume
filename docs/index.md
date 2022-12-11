@@ -24,20 +24,17 @@ __Education BYU-i:__
 
 Fall Semester 2017 to Fall Semester 2022
 
+
 ## Hobbies:
 trying new things
 
 ## Programs built:
 
-Will add let me know the order of importance to add:
-
 NeuralNetworks
 
-MachineLearning 
+MachineLearning Algorithms
 
-FibonnaciGenerator
-
-GeneticAlgorithm
+FibonnaciGenerator  
 
 ## Service:
 
