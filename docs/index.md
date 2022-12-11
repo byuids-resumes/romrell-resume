@@ -39,8 +39,6 @@ FibonnaciGenerator
 
 GeneticAlgorithm
 
-CODE I CANT SHARE CAUSE ITS NOT SUPPOSED TO BE POSSIBLE TO CREATE... 
-
 ## Service:
 
 Oregon Foodbank - Regular volunteer 
