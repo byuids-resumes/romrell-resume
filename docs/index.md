@@ -29,7 +29,7 @@ trying new things
 
 ## Programs built:
 
-## Will add let me know the order of importance to add:
+Will add let me know the order of importance to add:
 
 NeuralNetworks
 
